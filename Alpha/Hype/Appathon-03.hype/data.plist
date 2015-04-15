@@ -9,15 +9,15 @@
 	<key>createOfflineApplicationCache</key>
 	<false/>
 	<key>currentSceneContainer</key>
-	<string>64</string>
+	<string>15</string>
 	<key>displayedAttributes</key>
 	<array>
 		<string>kPropertiesMenuItemIdentifierOpacity</string>
-		<string>kPropertiesMenuItemIdentifierAnimated</string>
 		<string>kPropertiesMenuItemIdentifierPosition</string>
+		<string>kPropertiesMenuItemIdentifierAnimated</string>
 	</array>
 	<key>documentVersion</key>
-	<string>456</string>
+	<string>458</string>
 	<key>documentationVerticalSplitViewPosition</key>
 	<real>280</real>
 	<key>drawSceneBackgrounds</key>
@@ -29,7 +29,7 @@
 	<key>guidesAreVisible</key>
 	<true/>
 	<key>lastCheckDate</key>
-	<date>2015-04-14T23:29:50Z</date>
+	<date>2015-04-15T07:15:05Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
@@ -37,7 +37,7 @@
 		<key>customizableLayout</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0, 0}, {1353, 659}}</string>
+			<string>{{0, 0}, {1353, 697}}</string>
 			<key>identifier</key>
 			<string>container 191</string>
 			<key>isCustomizableViewContainer</key>
@@ -50,7 +50,7 @@
 			<array>
 				<dict>
 					<key>frame</key>
-					<string>{{0, 0}, {1082, 659}}</string>
+					<string>{{0, 0}, {1082, 697}}</string>
 					<key>identifier</key>
 					<string>container 475</string>
 					<key>isCustomizableViewContainer</key>
@@ -63,7 +63,7 @@
 					<array>
 						<dict>
 							<key>frame</key>
-							<string>{{0, 0}, {811, 659}}</string>
+							<string>{{0, 0}, {811, 697}}</string>
 							<key>identifier</key>
 							<string>container 189</string>
 							<key>isCustomizableViewContainer</key>
@@ -76,7 +76,7 @@
 							<array>
 								<dict>
 									<key>frame</key>
-									<string>{{0, 0}, {270, 659}}</string>
+									<string>{{0, 0}, {270, 697}}</string>
 									<key>identifier</key>
 									<string>container 184</string>
 									<key>isCustomizableViewContainer</key>
@@ -89,7 +89,7 @@
 									<array>
 										<dict>
 											<key>frame</key>
-											<string>{{0, 0}, {270, 659}}</string>
+											<string>{{0, 0}, {270, 697}}</string>
 											<key>identifier</key>
 											<string>sceneSelectorCustomizableContainer</string>
 											<key>isCustomizableViewContainer</key>
@@ -99,7 +99,7 @@
 								</dict>
 								<dict>
 									<key>frame</key>
-									<string>{{271, 0}, {540, 659}}</string>
+									<string>{{271, 0}, {540, 697}}</string>
 									<key>identifier</key>
 									<string>container 187</string>
 									<key>isCustomizableViewContainer</key>
@@ -112,7 +112,7 @@
 									<array>
 										<dict>
 											<key>frame</key>
-											<string>{{271, 0}, {540, 218}}</string>
+											<string>{{271, 0}, {540, 212}}</string>
 											<key>identifier</key>
 											<string>container 186</string>
 											<key>isCustomizableViewContainer</key>
@@ -125,7 +125,7 @@
 											<array>
 												<dict>
 													<key>frame</key>
-													<string>{{271, 0}, {540, 218}}</string>
+													<string>{{271, 0}, {540, 212}}</string>
 													<key>identifier</key>
 													<string>timelineCustomizableContainer</string>
 													<key>isCustomizableViewContainer</key>
@@ -135,7 +135,7 @@
 										</dict>
 										<dict>
 											<key>frame</key>
-											<string>{{271, 219}, {540, 440}}</string>
+											<string>{{271, 213}, {540, 484}}</string>
 											<key>identifier</key>
 											<string>container 185</string>
 											<key>isCustomizableViewContainer</key>
@@ -148,7 +148,7 @@
 											<array>
 												<dict>
 													<key>frame</key>
-													<string>{{271, 219}, {540, 440}}</string>
+													<string>{{271, 213}, {540, 484}}</string>
 													<key>identifier</key>
 													<string>sceneEditorCustomizableContainer</string>
 													<key>isCustomizableViewContainer</key>
@@ -162,7 +162,7 @@
 						</dict>
 						<dict>
 							<key>frame</key>
-							<string>{{812, 0}, {270, 659}}</string>
+							<string>{{812, 0}, {270, 697}}</string>
 							<key>identifier</key>
 							<string>container 188</string>
 							<key>isCustomizableViewContainer</key>
@@ -175,7 +175,7 @@
 							<array>
 								<dict>
 									<key>frame</key>
-									<string>{{812, 0}, {270, 659}}</string>
+									<string>{{812, 0}, {270, 697}}</string>
 									<key>identifier</key>
 									<string>inspectorCustomizableContainer</string>
 									<key>isCustomizableViewContainer</key>
@@ -187,7 +187,7 @@
 				</dict>
 				<dict>
 					<key>frame</key>
-					<string>{{1083, 0}, {270, 659}}</string>
+					<string>{{1083, 0}, {270, 697}}</string>
 					<key>identifier</key>
 					<string>container 474</string>
 					<key>isCustomizableViewContainer</key>
@@ -200,7 +200,7 @@
 					<array>
 						<dict>
 							<key>frame</key>
-							<string>{{1083, 0}, {270, 659}}</string>
+							<string>{{1083, 0}, {270, 697}}</string>
 							<key>identifier</key>
 							<string>resourcesCustomizableContainer</string>
 							<key>isCustomizableViewContainer</key>
@@ -213,7 +213,7 @@
 		<key>keyframeTimelineHeight</key>
 		<real>92</real>
 		<key>mainWindowFrame</key>
-		<string>16 65 1353 681 0 0 1366 746 </string>
+		<string>21 59 1353 719 0 0 1280 778 </string>
 		<key>openTabs</key>
 		<array/>
 		<key>selectedTabIndex</key>
@@ -1062,8 +1062,6 @@
 					<string>28</string>
 					<key>scrollViewOffset</key>
 					<string>{0, 20}</string>
-					<key>userGuides</key>
-					<array/>
 				</dict>
 			</array>
 		</dict>
@@ -1170,8 +1168,6 @@
 					<string>57</string>
 					<key>scrollViewOffset</key>
 					<string>{0, 20}</string>
-					<key>userGuides</key>
-					<array/>
 				</dict>
 			</array>
 		</dict>
@@ -1276,8 +1272,6 @@
 					<string>4</string>
 					<key>scrollViewOffset</key>
 					<string>{0, 168}</string>
-					<key>userGuides</key>
-					<array/>
 				</dict>
 			</array>
 		</dict>
@@ -1302,7 +1296,7 @@
 	<array>
 		<dict>
 			<key>documentIdentifier</key>
-			<string>C4B8ED20-8604-4BDA-9C0F-79876D55EEAA-484-0000069C107CB161</string>
+			<string>E8FAA144-3475-4090-85E9-5703D4EEA880-10046-00007CC47F500A95</string>
 			<key>selectedObjects</key>
 			<array>
 				<string>53</string>
@@ -1321,9 +1315,9 @@
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalHeight</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>331px</string>
+							<string>428px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1435,9 +1429,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>OriginalHeight</string>
 							<key>objectValue</key>
-							<string>428px</string>
+							<string>331px</string>
 						</dict>
 					</array>
 					<key>53</key>
@@ -1564,6 +1558,61 @@
 				<string>Scene Symbol</string>
 				<key>oid</key>
 				<string>4</string>
+				<key>onSceneDragActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneKeyDownActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneKeyPressActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneKeyUpActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneLoadActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneSwipeDownActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneSwipeLeftActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneSwipeRightActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneSwipeUpActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneTimelineCompleteActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneUnloadActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
 				<key>onTopDuringSceneTransition</key>
 				<true/>
 				<key>properties</key>
@@ -1604,7 +1653,7 @@
 		</dict>
 		<dict>
 			<key>documentIdentifier</key>
-			<string>C4B8ED20-8604-4BDA-9C0F-79876D55EEAA-484-0000069C107CB161</string>
+			<string>E8FAA144-3475-4090-85E9-5703D4EEA880-10046-00007CC47F500A95</string>
 			<key>selectedObjects</key>
 			<array/>
 			<key>symbol</key>
@@ -1623,6 +1672,61 @@
 				<string>Scene Symbol 2</string>
 				<key>oid</key>
 				<string>9</string>
+				<key>onSceneDragActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneKeyDownActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneKeyPressActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneKeyUpActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneLoadActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneSwipeDownActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneSwipeLeftActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneSwipeRightActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneSwipeUpActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneTimelineCompleteActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneUnloadActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
 				<key>onTopDuringSceneTransition</key>
 				<true/>
 				<key>properties</key>
@@ -1663,7 +1767,7 @@
 		</dict>
 		<dict>
 			<key>documentIdentifier</key>
-			<string>C4B8ED20-8604-4BDA-9C0F-79876D55EEAA-484-0000069C107CB161</string>
+			<string>E8FAA144-3475-4090-85E9-5703D4EEA880-10046-00007CC47F500A95</string>
 			<key>selectedObjects</key>
 			<array>
 				<string>40</string>
@@ -1682,15 +1786,15 @@
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>Position</string>
-							<key>objectValue</key>
-							<string>absolute</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>DisplayName</string>
 							<key>objectValue</key>
 							<string>Phone-0</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1793,15 +1897,15 @@
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>Position</string>
-							<key>objectValue</key>
-							<string>absolute</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>DisplayName</string>
 							<key>objectValue</key>
 							<string>AppathonBanner</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1910,21 +2014,15 @@
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
-							<key>objectValue</key>
-							<string>div</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderWidthBottom</string>
+							<string>BorderWidthLeft</string>
 							<key>objectValue</key>
 							<string>1px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderColorBottom</string>
+							<string>BackgroundColor</string>
 							<key>objectValue</key>
-							<string>#D8DDE4</string>
+							<string>#E8EBED</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1934,9 +2032,15 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Opacity</string>
+							<string>BorderColorBottom</string>
 							<key>objectValue</key>
-							<string>0.000000</string>
+							<string>#D8DDE4</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Cursor</string>
+							<key>objectValue</key>
+							<string>pointer</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1946,9 +2050,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Cursor</string>
+							<string>Opacity</string>
 							<key>objectValue</key>
-							<string>pointer</string>
+							<string>0.000000</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1982,13 +2086,13 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderColorLeft</string>
+							<string>BorderColorTop</string>
 							<key>objectValue</key>
 							<string>#D8DDE4</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderColorTop</string>
+							<string>BorderColorLeft</string>
 							<key>objectValue</key>
 							<string>#D8DDE4</string>
 						</dict>
@@ -2074,24 +2178,24 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderWidthLeft</string>
+							<string>BorderWidthBottom</string>
 							<key>objectValue</key>
 							<string>1px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BackgroundColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#E8EBED</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>40</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>280px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2223,18 +2327,18 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>280px</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>42</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>280px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2372,18 +2476,18 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>280px</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>46</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>280px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2515,18 +2619,18 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>280px</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>48</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>280px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2658,18 +2762,18 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>280px</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>50</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>280px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2807,18 +2911,18 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>280px</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>52</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>280px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2956,18 +3060,18 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>280px</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>82</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>55px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3099,9 +3203,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>55px</string>
+							<string>div</string>
 						</dict>
 					</array>
 				</dict>
@@ -3111,6 +3215,61 @@
 				<string>Scene Symbol 3</string>
 				<key>oid</key>
 				<string>16</string>
+				<key>onSceneDragActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneKeyDownActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneKeyPressActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneKeyUpActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneLoadActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneSwipeDownActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneSwipeLeftActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneSwipeRightActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneSwipeUpActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneTimelineCompleteActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneUnloadActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
 				<key>onTopDuringSceneTransition</key>
 				<true/>
 				<key>properties</key>
@@ -3151,7 +3310,7 @@
 		</dict>
 		<dict>
 			<key>documentIdentifier</key>
-			<string>C4B8ED20-8604-4BDA-9C0F-79876D55EEAA-484-0000069C107CB161</string>
+			<string>E8FAA144-3475-4090-85E9-5703D4EEA880-10046-00007CC47F500A95</string>
 			<key>selectedObjects</key>
 			<array>
 				<string>31</string>
@@ -3287,27 +3446,27 @@
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>BorderWidthLeft</string>
+							<string>BorderWidthBottom</string>
 							<key>objectValue</key>
 							<string>1px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BackgroundColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#E8EBED</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ExplicitDimensions</string>
-							<key>objectValue</key>
-							<string>YES</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>BorderColorBottom</string>
 							<key>objectValue</key>
 							<string>#D8DDE4</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ExplicitDimensions</string>
+							<key>objectValue</key>
+							<string>YES</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3451,15 +3610,15 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderWidthBottom</string>
+							<string>BorderWidthLeft</string>
 							<key>objectValue</key>
 							<string>1px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>BackgroundColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#E8EBED</string>
 						</dict>
 					</array>
 					<key>31</key>
@@ -3577,9 +3736,9 @@
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>321px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3697,24 +3856,24 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>321px</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>55</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>Position</string>
-							<key>objectValue</key>
-							<string>absolute</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>DisplayName</string>
 							<key>objectValue</key>
 							<string>ComingSoon</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3817,9 +3976,9 @@
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>55px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3951,9 +4110,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>55px</string>
+							<string>div</string>
 						</dict>
 					</array>
 				</dict>
@@ -3963,6 +4122,61 @@
 				<string>Scene Symbol 3</string>
 				<key>oid</key>
 				<string>28</string>
+				<key>onSceneDragActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneKeyDownActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneKeyPressActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneKeyUpActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneLoadActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneSwipeDownActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneSwipeLeftActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneSwipeRightActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneSwipeUpActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneTimelineCompleteActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneUnloadActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
 				<key>onTopDuringSceneTransition</key>
 				<true/>
 				<key>properties</key>
@@ -4003,7 +4217,7 @@
 		</dict>
 		<dict>
 			<key>documentIdentifier</key>
-			<string>C4B8ED20-8604-4BDA-9C0F-79876D55EEAA-484-0000069C107CB161</string>
+			<string>E8FAA144-3475-4090-85E9-5703D4EEA880-10046-00007CC47F500A95</string>
 			<key>selectedObjects</key>
 			<array>
 				<string>62</string>
@@ -4139,27 +4353,27 @@
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>BorderWidthBottom</string>
+							<string>BorderWidthLeft</string>
 							<key>objectValue</key>
 							<string>1px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>BackgroundColor</string>
 							<key>objectValue</key>
-							<string>div</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderColorBottom</string>
-							<key>objectValue</key>
-							<string>#D8DDE4</string>
+							<string>#E8EBED</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>ExplicitDimensions</string>
 							<key>objectValue</key>
 							<string>YES</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderColorBottom</string>
+							<key>objectValue</key>
+							<string>#D8DDE4</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4303,15 +4517,15 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderWidthLeft</string>
+							<string>BorderWidthBottom</string>
 							<key>objectValue</key>
 							<string>1px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BackgroundColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#E8EBED</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>60</key>
@@ -4540,9 +4754,9 @@
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>55px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4674,9 +4888,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>55px</string>
+							<string>div</string>
 						</dict>
 					</array>
 				</dict>
@@ -4686,6 +4900,61 @@
 				<string>Scene Symbol 3</string>
 				<key>oid</key>
 				<string>57</string>
+				<key>onSceneDragActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneKeyDownActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneKeyPressActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneKeyUpActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneLoadActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneSwipeDownActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneSwipeLeftActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneSwipeRightActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneSwipeUpActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneTimelineCompleteActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneUnloadActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
 				<key>onTopDuringSceneTransition</key>
 				<true/>
 				<key>properties</key>
@@ -4726,9 +4995,11 @@
 		</dict>
 		<dict>
 			<key>documentIdentifier</key>
-			<string>C4B8ED20-8604-4BDA-9C0F-79876D55EEAA-484-0000069C107CB161</string>
+			<string>E8FAA144-3475-4090-85E9-5703D4EEA880-10046-00007CC47F500A95</string>
 			<key>selectedObjects</key>
-			<array/>
+			<array>
+				<string>67</string>
+			</array>
 			<key>symbol</key>
 			<dict>
 				<key>addToNewSceneControllers</key>
@@ -4977,27 +5248,27 @@
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>BorderWidthLeft</string>
+							<string>BorderWidthBottom</string>
 							<key>objectValue</key>
 							<string>1px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BackgroundColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#E8EBED</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ExplicitDimensions</string>
-							<key>objectValue</key>
-							<string>YES</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>BorderColorBottom</string>
 							<key>objectValue</key>
 							<string>#D8DDE4</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ExplicitDimensions</string>
+							<key>objectValue</key>
+							<string>YES</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5141,30 +5412,30 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderWidthBottom</string>
+							<string>BorderWidthLeft</string>
 							<key>objectValue</key>
 							<string>1px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>BackgroundColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#E8EBED</string>
 						</dict>
 					</array>
 					<key>72</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>Position</string>
+							<string>DisplayName</string>
 							<key>objectValue</key>
-							<string>absolute</string>
+							<string>HTML Widget</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderStyleTop</string>
+							<string>Position</string>
 							<key>objectValue</key>
-							<string>None</string>
+							<string>absolute</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5174,33 +5445,15 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>IFrameURL</string>
-							<key>objectValue</key>
-							<string></string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>IFrameHTML</string>
 							<key>objectValue</key>
 							<string>&lt;iframe width="240" height="135" src="https://www.youtube.com/embed/0_k5CPBF8ZU?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>DisplayName</string>
+							<string>IFrameURL</string>
 							<key>objectValue</key>
-							<string>HTML Widget</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderStyleBottom</string>
-							<key>objectValue</key>
-							<string>None</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Left</string>
-							<key>objectValue</key>
-							<string>31px</string>
+							<string></string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5210,9 +5463,27 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>31px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
 							<string>OriginalHeight</string>
 							<key>objectValue</key>
 							<string>200px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderStyleTop</string>
+							<key>objectValue</key>
+							<string>None</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderStyleBottom</string>
+							<key>objectValue</key>
+							<string>None</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5273,27 +5544,27 @@
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
-							<key>objectValue</key>
-							<string>div</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderWidthBottom</string>
+							<string>BorderWidthLeft</string>
 							<key>objectValue</key>
 							<string>1px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderColorBottom</string>
+							<string>BackgroundColor</string>
 							<key>objectValue</key>
-							<string>#D8DDE4</string>
+							<string>#F3E900</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>ExplicitDimensions</string>
 							<key>objectValue</key>
 							<string>YES</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderColorBottom</string>
+							<key>objectValue</key>
+							<string>#D8DDE4</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5333,13 +5604,13 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderColorLeft</string>
+							<string>BorderColorTop</string>
 							<key>objectValue</key>
 							<string>#D8DDE4</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderColorTop</string>
+							<string>BorderColorLeft</string>
 							<key>objectValue</key>
 							<string>#D8DDE4</string>
 						</dict>
@@ -5411,24 +5682,24 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderWidthLeft</string>
+							<string>BorderWidthBottom</string>
 							<key>objectValue</key>
 							<string>1px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BackgroundColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#F3E900</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>78</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>55px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5560,9 +5831,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>55px</string>
+							<string>div</string>
 						</dict>
 					</array>
 				</dict>
@@ -5572,6 +5843,61 @@
 				<string>Scene Symbol 3</string>
 				<key>oid</key>
 				<string>65</string>
+				<key>onSceneDragActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneKeyDownActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneKeyPressActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneKeyUpActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneLoadActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneSwipeDownActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneSwipeLeftActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneSwipeRightActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneSwipeUpActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneTimelineCompleteActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneUnloadActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
 				<key>onTopDuringSceneTransition</key>
 				<true/>
 				<key>properties</key>
