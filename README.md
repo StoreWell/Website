@@ -1,4 +1,4 @@
 # StoreWell
 http://storewell.us
 
-http://prhana.github.io/StoreWell/
+http://storewell.github.io/Website
