@@ -29,7 +29,7 @@
 	<key>guidesAreVisible</key>
 	<true/>
 	<key>lastCheckDate</key>
-	<date>2015-04-17T07:08:54Z</date>
+	<date>2015-04-17T08:01:27Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
@@ -213,7 +213,7 @@
 		<key>keyframeTimelineHeight</key>
 		<real>92</real>
 		<key>mainWindowFrame</key>
-		<string>438 59 1353 719 0 0 1280 778 </string>
+		<string>173 59 1353 719 0 0 1280 778 </string>
 		<key>openTabs</key>
 		<array/>
 		<key>selectedTabIndex</key>
@@ -251,7 +251,7 @@
 	<key>mobileStatusBarStyle</key>
 	<integer>1</integer>
 	<key>oidCounter</key>
-	<integer>740</integer>
+	<integer>741</integer>
 	<key>resourcesInfo</key>
 	<dict>
 		<key>groups</key>
@@ -1268,19 +1268,7 @@
 			<key>documentIdentifier</key>
 			<string>D3E2695C-D618-4D9E-AB2C-BD6A817D003F-14474-0000C71E024FF6EC</string>
 			<key>selectedObjects</key>
-			<array>
-				<string>567</string>
-				<string>383</string>
-				<string>21</string>
-				<string>26</string>
-				<string>137</string>
-				<string>384</string>
-				<string>135</string>
-				<string>82</string>
-				<string>23</string>
-				<string>382</string>
-				<string>136</string>
-			</array>
+			<array/>
 			<key>symbol</key>
 			<dict>
 				<key>addToNewSceneControllers</key>

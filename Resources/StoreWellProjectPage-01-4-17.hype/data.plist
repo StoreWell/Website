@@ -9,7 +9,7 @@
 	<key>createOfflineApplicationCache</key>
 	<false/>
 	<key>currentSceneContainer</key>
-	<string>4</string>
+	<string>75</string>
 	<key>displayedAttributes</key>
 	<array>
 		<string>kPropertiesMenuItemIdentifierOpacity</string>
@@ -29,7 +29,7 @@
 	<key>guidesAreVisible</key>
 	<true/>
 	<key>lastCheckDate</key>
-	<date>2015-04-17T07:51:50Z</date>
+	<date>2015-04-17T08:15:56Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
@@ -175,7 +175,7 @@
 		<key>keyframeTimelineHeight</key>
 		<real>50</real>
 		<key>mainWindowFrame</key>
-		<string>86 65 1257 713 0 0 1280 778 </string>
+		<string>306 65 1257 713 0 0 1280 778 </string>
 		<key>openTabs</key>
 		<array/>
 		<key>selectedTabIndex</key>
@@ -573,7 +573,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{2860, 2220}</string>
+					<string>{2860, 1868}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -625,7 +625,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{2860, 2220}</string>
+					<string>{2860, 1868}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -677,7 +677,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{2860, 2220}</string>
+					<string>{2860, 1868}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -729,7 +729,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{2860, 2220}</string>
+					<string>{2860, 1868}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -824,7 +824,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{2860, 2220}</string>
+					<string>{2860, 1868}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -878,7 +878,9 @@
 			<key>documentIdentifier</key>
 			<string>B6C1CCC7-D497-4F4E-B37E-0C881CED5449-14474-0000C74A8B9F5C50</string>
 			<key>selectedObjects</key>
-			<array/>
+			<array>
+				<string>119</string>
+			</array>
 			<key>symbol</key>
 			<dict>
 				<key>addToNewSceneControllers</key>
@@ -1126,7 +1128,7 @@
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>474px</string>
+							<string>506px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1180,13 +1182,13 @@
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>56px</string>
+							<string>73px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>InnerHTML</string>
 							<key>objectValue</key>
-							<string>A company for massage therapists and their clients who wish to organize information and evaluate the benefits and progress of their massage treatments.&amp;nbsp;</string>
+							<string>Track the benefits of your massage treatment &amp;nbsp;&lt;br&gt;and receive personal reminders from your therapist to get better health. today&amp;nbsp;</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1297,7 +1299,7 @@
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>-16px</string>
+							<string>-24px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3525,7 +3527,73 @@
 				<array>
 					<dict>
 						<key>animations</key>
-						<array/>
+						<array>
+							<dict>
+								<key>duration</key>
+								<real>3.4666666984558105</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Left</string>
+									<key>objectValue</key>
+									<string>4px</string>
+								</dict>
+								<key>identifier</key>
+								<string>Left</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>122</string>
+								<key>startTime</key>
+								<real>0.0</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Left</string>
+									<key>objectValue</key>
+									<string>-1px</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>3ACA1DAC-8E2B-4F40-86BF-42D2B18C19FD-14474-0000CFC3A2E2ED1B</string>
+								<key>zIndex</key>
+								<integer>1</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
+								<string>Left</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>122</string>
+								<key>startTime</key>
+								<real>3.4666666984558105</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Left</string>
+									<key>objectValue</key>
+									<string>4px</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>0B48611E-CCDE-48DD-8B97-9DE5F4E6BDD7-14474-0000CFC3A4845923</string>
+								<key>zIndex</key>
+								<integer>2</integer>
+							</dict>
+						</array>
 						<key>firstKeyframeIsRelative</key>
 						<false/>
 						<key>framesPerSecond</key>
@@ -6513,7 +6581,9 @@
 			<key>documentIdentifier</key>
 			<string>B6C1CCC7-D497-4F4E-B37E-0C881CED5449-14474-0000C74A8B9F5C50</string>
 			<key>selectedObjects</key>
-			<array/>
+			<array>
+				<string>84</string>
+			</array>
 			<key>symbol</key>
 			<dict>
 				<key>addToNewSceneControllers</key>
@@ -7012,7 +7082,7 @@
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>-14px</string>
+							<string>-18px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -7042,7 +7112,7 @@
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>389px</string>
+							<string>401px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -7147,7 +7217,7 @@
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>205px</string>
+							<string>173px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -7177,13 +7247,13 @@
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>56px</string>
+							<string>51px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>InnerHTML</string>
 							<key>objectValue</key>
-							<string>&lt;span id="docs-internal-guid-049073d2-c62b-517c-9316-7b082135e752"&gt;&lt;p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"&gt;&lt;span style="font-family: Arial; color: rgb(0, 0, 0); font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Caitlin Stilin-Rooney is currently a studnet at&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"&gt;&lt;span style="font-family: Arial; color: rgb(0, 0, 0); font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Cortiva Institute for Massage Therapy in&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"&gt;&lt;span style="font-family: Arial; color: rgb(0, 0, 0); font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Hoboken, New Jersey. In May she will be a&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"&gt;&lt;span style="font-family: Arial; color: rgb(0, 0, 0); font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Licensed Massage Therapist in New Jersey&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"&gt;&lt;span style="font-family: Arial; color: rgb(0, 0, 0); font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;and Pennsylvania and then continue to study&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"&gt;&lt;span style="font-family: Arial; color: rgb(0, 0, 0); font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;to become certified in New York Sate.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"&gt;&lt;span style="font-family: Arial; color: rgb(0, 0, 0); font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"&gt;&lt;span style="font-family: Arial; color: rgb(0, 0, 0); font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;In addition to massage, Caitlin is deeply passionate about social entrepreneurship. She is the co-founder a womens business cooperative in Jimani, Dominican Republic and she is a key team member of PingBlig, a tech-startup based in the Dominican Republic. She has development wellness programs in Africa and the Caribbean, spent months in silent meditation and is a 200-hr Yoga Alliance certified instructor. Once certified she will be focused on working in the modalities of Shiatsu, myofascial release, trigger point therapy, Swedish, deep tissue, and prenatal.&lt;/span&gt;&lt;/p&gt;&lt;br&gt;&lt;/span&gt;</string>
+							<string>&lt;span id="docs-internal-guid-049073d2-c62b-517c-9316-7b082135e752"&gt;&lt;p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"&gt;&lt;span style="font-family: Arial; color: rgb(0, 0, 0); font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Caitlin Stilin-Rooney is currently a student at&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"&gt;&lt;span style="font-family: Arial; color: rgb(0, 0, 0); font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Cortiva Institute for Massage Therapy in&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"&gt;&lt;span style="font-family: Arial; color: rgb(0, 0, 0); font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Hoboken, New Jersey. In May she will be a&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"&gt;&lt;span style="font-family: Arial; color: rgb(0, 0, 0); font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Licensed Massage Therapist in New Jersey&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"&gt;&lt;span style="font-family: Arial; color: rgb(0, 0, 0); font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;and Pennsylvania and will continue to study&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"&gt;&lt;span style="font-family: Arial; color: rgb(0, 0, 0); font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;to become certified massage therapist in&lt;/span&gt;&lt;/p&gt;&lt;p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"&gt;&lt;span style="font-family: Arial; color: rgb(0, 0, 0); font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;New York Sate.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"&gt;&lt;span style="font-family: Arial; color: rgb(0, 0, 0); font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"&gt;&lt;span style="font-family: Arial; color: rgb(0, 0, 0); font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;In addition to massage, Caitlin is deeply passionate about social entrepreneurship. She is the co-founder a womens business cooperative in Jimani, Dominican Republic and she is a key team member of PingBlig, a tech-startup based in the Dominican Republic. She has development wellness programs in Africa and the Caribbean, spent months in silent meditation and is a 200-hr Yoga Alliance certified instructor.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"&gt;&lt;span style="font-family: Arial; color: rgb(0, 0, 0); font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"&gt;&lt;span style="font-family: Arial; color: rgb(0, 0, 0); font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Once certified she will be focused on working in the modalities of Shiatsu, myofascial release, trigger point therapy, Swedish, deep tissue, and prenatal massage.&lt;/span&gt;&lt;/p&gt;&lt;br&gt;&lt;/span&gt;</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
