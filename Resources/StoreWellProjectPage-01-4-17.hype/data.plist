@@ -9,7 +9,7 @@
 	<key>createOfflineApplicationCache</key>
 	<false/>
 	<key>currentSceneContainer</key>
-	<string>75</string>
+	<string>90</string>
 	<key>displayedAttributes</key>
 	<array>
 		<string>kPropertiesMenuItemIdentifierOpacity</string>
@@ -29,7 +29,7 @@
 	<key>guidesAreVisible</key>
 	<true/>
 	<key>lastCheckDate</key>
-	<date>2015-04-17T10:28:42Z</date>
+	<date>2015-04-17T10:32:49Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
@@ -843,60 +843,6 @@
 		</dict>
 		<dict>
 			<key>currentSceneOid</key>
-			<string>92</string>
-			<key>name</key>
-			<string>App</string>
-			<key>oid</key>
-			<string>90</string>
-			<key>scenes</key>
-			<array>
-				<dict>
-					<key>animationController</key>
-					<dict>
-						<key>expandedItems</key>
-						<array/>
-						<key>timeCursors</key>
-						<dict>
-							<key>kTimelineDefaultIdentifier</key>
-							<real>0.0</real>
-						</dict>
-						<key>timescale</key>
-						<integer>60</integer>
-					</dict>
-					<key>canvasSize</key>
-					<string>{1240, 1240}</string>
-					<key>hypeScene</key>
-					<dict>
-						<key>backgroundColor</key>
-						<string>#FFFFFF</string>
-						<key>breakpointWidth</key>
-						<real>1200</real>
-						<key>name</key>
-						<string>Desktop</string>
-						<key>perspective</key>
-						<real>600</real>
-						<key>sceneScalePercentageSize</key>
-						<string>{1, 1}</string>
-						<key>sceneSize</key>
-						<string>{1200, 1200}</string>
-						<key>shouldScaleSceneHeight</key>
-						<false/>
-						<key>shouldScaleSceneWidth</key>
-						<false/>
-					</dict>
-					<key>oid</key>
-					<string>92</string>
-					<key>rootSymbolControllerOid</key>
-					<string>91</string>
-					<key>scrollViewOffset</key>
-					<string>{119, 640}</string>
-					<key>userGuides</key>
-					<array/>
-				</dict>
-			</array>
-		</dict>
-		<dict>
-			<key>currentSceneOid</key>
 			<string>77</string>
 			<key>name</key>
 			<string>Bio</string>
@@ -996,6 +942,60 @@
 					<string>71</string>
 					<key>scrollViewOffset</key>
 					<string>{243, 564}</string>
+					<key>userGuides</key>
+					<array/>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>currentSceneOid</key>
+			<string>92</string>
+			<key>name</key>
+			<string>App</string>
+			<key>oid</key>
+			<string>90</string>
+			<key>scenes</key>
+			<array>
+				<dict>
+					<key>animationController</key>
+					<dict>
+						<key>expandedItems</key>
+						<array/>
+						<key>timeCursors</key>
+						<dict>
+							<key>kTimelineDefaultIdentifier</key>
+							<real>0.0</real>
+						</dict>
+						<key>timescale</key>
+						<integer>60</integer>
+					</dict>
+					<key>canvasSize</key>
+					<string>{1240, 1240}</string>
+					<key>hypeScene</key>
+					<dict>
+						<key>backgroundColor</key>
+						<string>#FFFFFF</string>
+						<key>breakpointWidth</key>
+						<real>1200</real>
+						<key>name</key>
+						<string>Desktop</string>
+						<key>perspective</key>
+						<real>600</real>
+						<key>sceneScalePercentageSize</key>
+						<string>{1, 1}</string>
+						<key>sceneSize</key>
+						<string>{1200, 1200}</string>
+						<key>shouldScaleSceneHeight</key>
+						<false/>
+						<key>shouldScaleSceneWidth</key>
+						<false/>
+					</dict>
+					<key>oid</key>
+					<string>92</string>
+					<key>rootSymbolControllerOid</key>
+					<string>91</string>
+					<key>scrollViewOffset</key>
+					<string>{150, 642}</string>
 					<key>userGuides</key>
 					<array/>
 				</dict>
@@ -8292,9 +8292,7 @@
 			<key>documentIdentifier</key>
 			<string>B6C1CCC7-D497-4F4E-B37E-0C881CED5449-14474-0000C74A8B9F5C50</string>
 			<key>selectedObjects</key>
-			<array>
-				<string>109</string>
-			</array>
+			<array/>
 			<key>symbol</key>
 			<dict>
 				<key>addToNewSceneControllers</key>

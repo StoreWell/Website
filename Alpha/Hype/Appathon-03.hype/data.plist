@@ -29,7 +29,7 @@
 	<key>guidesAreVisible</key>
 	<true/>
 	<key>lastCheckDate</key>
-	<date>2015-04-17T09:56:00Z</date>
+	<date>2015-04-17T10:30:30Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
@@ -213,7 +213,7 @@
 		<key>keyframeTimelineHeight</key>
 		<real>92</real>
 		<key>mainWindowFrame</key>
-		<string>302 59 1353 719 0 0 1280 778 </string>
+		<string>32 59 1353 719 0 0 1280 778 </string>
 		<key>openTabs</key>
 		<array/>
 		<key>selectedTabIndex</key>
@@ -45922,19 +45922,7 @@ var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s
 			<key>documentIdentifier</key>
 			<string>F1FA3268-5BC5-4B56-9706-438D9D9B6BC0-14474-0000D155DA9F05D2</string>
 			<key>selectedObjects</key>
-			<array>
-				<string>823</string>
-				<string>815</string>
-				<string>821</string>
-				<string>824</string>
-				<string>818</string>
-				<string>816</string>
-				<string>822</string>
-				<string>819</string>
-				<string>820</string>
-				<string>825</string>
-				<string>817</string>
-			</array>
+			<array/>
 			<key>symbol</key>
 			<dict>
 				<key>addToNewSceneControllers</key>
