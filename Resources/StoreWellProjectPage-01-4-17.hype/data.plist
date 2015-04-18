@@ -29,7 +29,7 @@
 	<key>guidesAreVisible</key>
 	<true/>
 	<key>lastCheckDate</key>
-	<date>2015-04-18T06:14:44Z</date>
+	<date>2015-04-18T06:21:58Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
@@ -99,7 +99,7 @@
 							<array>
 								<dict>
 									<key>frame</key>
-									<string>{{271, 0}, {778, 212}}</string>
+									<string>{{271, 0}, {778, 240}}</string>
 									<key>identifier</key>
 									<string>container 36</string>
 									<key>isCustomizableViewContainer</key>
@@ -112,7 +112,7 @@
 									<array>
 										<dict>
 											<key>frame</key>
-											<string>{{271, 0}, {778, 212}}</string>
+											<string>{{271, 0}, {778, 240}}</string>
 											<key>identifier</key>
 											<string>timelineCustomizableContainer</string>
 											<key>isCustomizableViewContainer</key>
@@ -122,7 +122,7 @@
 								</dict>
 								<dict>
 									<key>frame</key>
-									<string>{{271, 213}, {778, 484}}</string>
+									<string>{{271, 241}, {778, 456}}</string>
 									<key>identifier</key>
 									<string>container 35</string>
 									<key>isCustomizableViewContainer</key>
@@ -135,7 +135,7 @@
 									<array>
 										<dict>
 											<key>frame</key>
-											<string>{{271, 213}, {778, 484}}</string>
+											<string>{{271, 241}, {778, 456}}</string>
 											<key>identifier</key>
 											<string>sceneEditorCustomizableContainer</string>
 											<key>isCustomizableViewContainer</key>
@@ -175,7 +175,7 @@
 		<key>keyframeTimelineHeight</key>
 		<real>50</real>
 		<key>mainWindowFrame</key>
-		<string>61 59 1320 719 0 0 1280 778 </string>
+		<string>-14 59 1320 719 0 0 1280 778 </string>
 		<key>openTabs</key>
 		<array/>
 		<key>selectedTabIndex</key>
@@ -686,7 +686,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1562, 1433}</string>
+					<string>{1556, 1433}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -711,7 +711,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>7</string>
 					<key>scrollViewOffset</key>
-					<string>{3, 188}</string>
+					<string>{0, 0}</string>
 					<key>userGuides</key>
 					<array/>
 				</dict>
@@ -765,7 +765,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>47</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 196}</string>
+					<string>{0, 0}</string>
 				</dict>
 			</array>
 		</dict>
@@ -1656,7 +1656,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1556, 990}</string>
+					<string>{1556, 968}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -4488,7 +4488,7 @@
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>554px</string>
+							<string>648px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4512,7 +4512,7 @@
 							<key>identifier</key>
 							<string>Height</string>
 							<key>objectValue</key>
-							<string>348px</string>
+							<string>328px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4524,13 +4524,13 @@
 							<key>identifier</key>
 							<string>Width</string>
 							<key>objectValue</key>
-							<string>225px</string>
+							<string>212px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>641px</string>
+							<string>653px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
