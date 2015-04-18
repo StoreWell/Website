@@ -9,7 +9,7 @@
 	<key>createOfflineApplicationCache</key>
 	<false/>
 	<key>currentSceneContainer</key>
-	<string>4</string>
+	<string>280</string>
 	<key>displayedAttributes</key>
 	<array>
 		<string>kPropertiesMenuItemIdentifierOpacity</string>
@@ -29,7 +29,7 @@
 	<key>guidesAreVisible</key>
 	<true/>
 	<key>lastCheckDate</key>
-	<date>2015-04-18T04:16:46Z</date>
+	<date>2015-04-18T06:05:19Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
@@ -175,7 +175,7 @@
 		<key>keyframeTimelineHeight</key>
 		<real>50</real>
 		<key>mainWindowFrame</key>
-		<string>14 59 1320 719 0 0 1280 778 </string>
+		<string>37 59 1320 719 0 0 1280 778 </string>
 		<key>openTabs</key>
 		<array/>
 		<key>selectedTabIndex</key>
@@ -680,7 +680,7 @@
 						<key>timeCursors</key>
 						<dict>
 							<key>kTimelineDefaultIdentifier</key>
-							<real>3.4666666984558105</real>
+							<real>5.1333332061767578</real>
 						</dict>
 						<key>timescale</key>
 						<integer>60</integer>
@@ -711,7 +711,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>7</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 397}</string>
+					<string>{236, 558}</string>
 					<key>userGuides</key>
 					<array/>
 				</dict>
@@ -1056,7 +1056,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{715, 608}</string>
+					<string>{778, 608}</string>
 					<key>currentSymbolElementPath</key>
 					<array>
 						<string>268</string>
@@ -1114,7 +1114,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{715, 608}</string>
+					<string>{778, 608}</string>
 					<key>currentSymbolElementPath</key>
 					<array>
 						<string>282</string>
@@ -1755,7 +1755,7 @@
 			<string>70AFA25C-A8B8-42B5-83FD-1461797D4DF4-171-0000049CAE20A295</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>122</string>
+				<string>726</string>
 			</array>
 			<key>symbol</key>
 			<dict>
@@ -4506,15 +4506,15 @@
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>Position</string>
-							<key>objectValue</key>
-							<string>absolute</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>DisplayName</string>
 							<key>objectValue</key>
 							<string>Pasted-1</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -15063,12 +15063,7 @@
 			<key>documentIdentifier</key>
 			<string>70AFA25C-A8B8-42B5-83FD-1461797D4DF4-171-0000049CAE20A295</string>
 			<key>selectedObjects</key>
-			<array>
-				<string>278</string>
-				<string>275</string>
-				<string>273</string>
-				<string>279</string>
-			</array>
+			<array/>
 			<key>symbol</key>
 			<dict>
 				<key>addToNewSceneControllers</key>
@@ -15121,7 +15116,7 @@
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>115px</string>
+							<string>100px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -15139,7 +15134,7 @@
 							<key>identifier</key>
 							<string>Height</string>
 							<key>objectValue</key>
-							<string>233px</string>
+							<string>240px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -15180,7 +15175,7 @@ var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>39px</string>
+							<string>25px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -15192,7 +15187,7 @@ var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s
 							<key>identifier</key>
 							<string>Width</string>
 							<key>objectValue</key>
-							<string>431px</string>
+							<string>274px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
