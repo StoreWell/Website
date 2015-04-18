@@ -29,7 +29,7 @@
 	<key>guidesAreVisible</key>
 	<true/>
 	<key>lastCheckDate</key>
-	<date>2015-04-18T04:14:19Z</date>
+	<date>2015-04-18T04:16:46Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
@@ -37,7 +37,7 @@
 		<key>customizableLayout</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0, 0}, {1257, 697}}</string>
+			<string>{{0, 0}, {1320, 697}}</string>
 			<key>identifier</key>
 			<string>container 41</string>
 			<key>isCustomizableViewContainer</key>
@@ -50,7 +50,7 @@
 			<array>
 				<dict>
 					<key>frame</key>
-					<string>{{0, 0}, {986, 697}}</string>
+					<string>{{0, 0}, {1049, 697}}</string>
 					<key>identifier</key>
 					<string>container 39</string>
 					<key>isCustomizableViewContainer</key>
@@ -86,7 +86,7 @@
 						</dict>
 						<dict>
 							<key>frame</key>
-							<string>{{271, 0}, {715, 697}}</string>
+							<string>{{271, 0}, {778, 697}}</string>
 							<key>identifier</key>
 							<string>container 37</string>
 							<key>isCustomizableViewContainer</key>
@@ -99,7 +99,7 @@
 							<array>
 								<dict>
 									<key>frame</key>
-									<string>{{271, 0}, {715, 212}}</string>
+									<string>{{271, 0}, {778, 212}}</string>
 									<key>identifier</key>
 									<string>container 36</string>
 									<key>isCustomizableViewContainer</key>
@@ -112,7 +112,7 @@
 									<array>
 										<dict>
 											<key>frame</key>
-											<string>{{271, 0}, {715, 212}}</string>
+											<string>{{271, 0}, {778, 212}}</string>
 											<key>identifier</key>
 											<string>timelineCustomizableContainer</string>
 											<key>isCustomizableViewContainer</key>
@@ -122,7 +122,7 @@
 								</dict>
 								<dict>
 									<key>frame</key>
-									<string>{{271, 213}, {715, 484}}</string>
+									<string>{{271, 213}, {778, 484}}</string>
 									<key>identifier</key>
 									<string>container 35</string>
 									<key>isCustomizableViewContainer</key>
@@ -135,7 +135,7 @@
 									<array>
 										<dict>
 											<key>frame</key>
-											<string>{{271, 213}, {715, 484}}</string>
+											<string>{{271, 213}, {778, 484}}</string>
 											<key>identifier</key>
 											<string>sceneEditorCustomizableContainer</string>
 											<key>isCustomizableViewContainer</key>
@@ -149,7 +149,7 @@
 				</dict>
 				<dict>
 					<key>frame</key>
-					<string>{{987, 0}, {270, 697}}</string>
+					<string>{{1050, 0}, {270, 697}}</string>
 					<key>identifier</key>
 					<string>container 38</string>
 					<key>isCustomizableViewContainer</key>
@@ -162,7 +162,7 @@
 					<array>
 						<dict>
 							<key>frame</key>
-							<string>{{987, 0}, {270, 697}}</string>
+							<string>{{1050, 0}, {270, 697}}</string>
 							<key>identifier</key>
 							<string>inspectorCustomizableContainer</string>
 							<key>isCustomizableViewContainer</key>
@@ -175,7 +175,7 @@
 		<key>keyframeTimelineHeight</key>
 		<real>50</real>
 		<key>mainWindowFrame</key>
-		<string>14 59 1257 719 0 0 1280 778 </string>
+		<string>14 59 1320 719 0 0 1280 778 </string>
 		<key>openTabs</key>
 		<array/>
 		<key>selectedTabIndex</key>
@@ -711,7 +711,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>7</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 0}</string>
+					<string>{0, 397}</string>
 					<key>userGuides</key>
 					<array/>
 				</dict>
@@ -921,7 +921,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>76</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 0}</string>
+					<string>{-8, -7}</string>
 				</dict>
 			</array>
 		</dict>
@@ -974,6 +974,8 @@
 					<string>71</string>
 					<key>scrollViewOffset</key>
 					<string>{243, 564}</string>
+					<key>userGuides</key>
+					<array/>
 				</dict>
 			</array>
 		</dict>
@@ -1055,6 +1057,10 @@
 					</dict>
 					<key>canvasSize</key>
 					<string>{715, 608}</string>
+					<key>currentSymbolElementPath</key>
+					<array>
+						<string>268</string>
+					</array>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -1080,6 +1086,8 @@
 					<string>267</string>
 					<key>scrollViewOffset</key>
 					<string>{0, 71}</string>
+					<key>userGuides</key>
+					<array/>
 				</dict>
 			</array>
 		</dict>
@@ -1107,6 +1115,10 @@
 					</dict>
 					<key>canvasSize</key>
 					<string>{715, 608}</string>
+					<key>currentSymbolElementPath</key>
+					<array>
+						<string>282</string>
+					</array>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -1132,6 +1144,8 @@
 					<string>281</string>
 					<key>scrollViewOffset</key>
 					<string>{0, 71}</string>
+					<key>userGuides</key>
+					<array/>
 				</dict>
 			</array>
 		</dict>
@@ -1184,6 +1198,8 @@
 					<string>293</string>
 					<key>scrollViewOffset</key>
 					<string>{0, 71}</string>
+					<key>userGuides</key>
+					<array/>
 				</dict>
 			</array>
 		</dict>
@@ -1236,6 +1252,8 @@
 					<string>309</string>
 					<key>scrollViewOffset</key>
 					<string>{0, 71}</string>
+					<key>userGuides</key>
+					<array/>
 				</dict>
 			</array>
 		</dict>
@@ -1288,6 +1306,8 @@
 					<string>325</string>
 					<key>scrollViewOffset</key>
 					<string>{0, 71}</string>
+					<key>userGuides</key>
+					<array/>
 				</dict>
 			</array>
 		</dict>
@@ -1340,6 +1360,8 @@
 					<string>341</string>
 					<key>scrollViewOffset</key>
 					<string>{0, 71}</string>
+					<key>userGuides</key>
+					<array/>
 				</dict>
 			</array>
 		</dict>
@@ -1392,6 +1414,8 @@
 					<string>355</string>
 					<key>scrollViewOffset</key>
 					<string>{0, 71}</string>
+					<key>userGuides</key>
+					<array/>
 				</dict>
 			</array>
 		</dict>
@@ -1731,7 +1755,7 @@
 			<string>70AFA25C-A8B8-42B5-83FD-1461797D4DF4-171-0000049CAE20A295</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>726</string>
+				<string>122</string>
 			</array>
 			<key>symbol</key>
 			<dict>
@@ -2040,7 +2064,7 @@
 							<key>identifier</key>
 							<string>InnerHTML</string>
 							<key>objectValue</key>
-							<string>Track the benefits of your massage treatment &amp;nbsp;&lt;br&gt;and receive personal reminders from your therapist to get better health. today&amp;nbsp;</string>
+							<string>Track the benefits of your massage treatment &amp;nbsp;&lt;br&gt;and receive personal reminders from your therapist to get better health. &amp;nbsp;</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -30135,7 +30159,7 @@ var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s
 			<string>70AFA25C-A8B8-42B5-83FD-1461797D4DF4-171-0000049CAE20A295</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>344</string>
+				<string>345</string>
 			</array>
 			<key>symbol</key>
 			<dict>
