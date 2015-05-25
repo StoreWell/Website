@@ -1,0 +1,86 @@
+StoreWell is a project focused on user centered data in the context of a health app. Due to a growing number of tools to track and monitor health and with the launch of the Apple watch, more people will be have access to their personal health information. 
+
+
+It was great to be able to bring my proejct to the Appathon and to work with other teams focused on personal data and online identity. 
+
+
+{ role clip of Caitlin at KCMO Spotlight}
+
+
+
+Thanks to the people, resouces and energy,  Storewell is on track to launch this year. Looing forward I will continue to work on this project at the next Prototype Jam organized by UMKC Law school and in June as part of  the large scale online legal hackathon being organized by Dazza Greenwood and Jonathan Askin. 
+
+
+
+
+
+
+
+
+user-centered data massage    from the past few months that I have been working with Daza, Brooklyn Law School and UMKC Law on am and believe that this app will be a tool for  health and believe that this app will provide value to therapists and their clients. 
+
+
+
+
+1. Vision 
+a. video 1 
+b. video 2
+c. video 3 OIDC project
+d. one pager
+e. website/app
+f. github repo 
+
+StoreWell System Model
+
+A. Roles: describe all of the roles of parties relevant to the app
+
+B. Interactions: what interactions are conducted through or supported by the app
+
+C. Data: what data is collected, stored or used by the app
+
+1. Service: massage
+
+A. Roles
+- NYS massage therapist
+- Client
+B. Interactions
+- Payment
+- Scheduling
+
+C. Data
+- Intake data model
+- Assessment
+- Payment
+- Scheduling
+- Improvements
+
+
+2. Service: yoga
+
+A. Roles
+- Instructor
+- Student/Client
+
+B. Interactions
+- Payment
+- Scheduling
+
+C. Data
+- Intake data model
+- Assessment
+- Payment
+- Scheduling
+- Improvements
+
+3. Service: health app consulting
+
+A. Roles:
+- Consultant
+- Client
+
+B. Interactions
+- Payment
+- Scheduling
+
+C. Data
+Client contact information
