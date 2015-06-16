@@ -1,0 +1,33 @@
+<div class="col s12 m4 l4">
+                <div class="card">
+                    <div class="card-image waves-effect waves-block waves-light">
+                        <img class="activator" src="img/project4.jpg">
+                    </div>
+                    <div class="card-content">
+                        <span class="card-title activator grey-text text-darken-4">
+                        
+                        Personalized plan suggested by your massage therapist. 
+                        
+                        <i class="mdi-navigation-more-vert right"></i></span>
+                        <p>
+                        
+                        <a href="#">
+                        
+                        Project link</a></p>
+                    </div>
+                    <div class="card-reveal">
+                        <span class="card-title grey-text text-darken-4">
+                        
+                        After your session your massage session, your therapist will send you a personalized plan for you to follow during time between visits.
+                        
+                        <i class="mdi-navigation-close right">  </i></span>
+                        <p>
+                        
+                        We believe that the Plan is one of the key components that adds value and builds a stronger relationship between the client and therapist. 
+
+StoreWell provides therapists an easy way to send their suggestions to boost self-care clients so that their clients can be motivated by their progress, and track the many benefits that massage has on their lives.
+                        
+                        </p>
+                    </div>
+                </div>
+            </div>
