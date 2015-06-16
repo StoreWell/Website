@@ -1,0 +1,86 @@
+storewell----
+
+front: abstract-sentence
+
+
+
+
+Our app is easily integrated with other health apps and wearable devices to help our users make informed choices, especially when sharing personal information to 3rd parties across the health industry. We highly value our clients privacy and want to empower them by building trust between therapists and their clients and help share important health information to reach goals sooner. 
+
+
+About StoreWell: 
+
+Front:
+
+Title: [5 words]
+
+Abstract: [20 words]
+
+Back of Card
+
+Description: 50 words]
+Thumbnail:
+
+52px x 70px jpg
+
+image type: jpg
+
+
+Front: 
+
+Title: About StoreWell 
+
+Abstract: 
+
+StoreWell provides a both mobil and web app for massage therapists and their clients to organize, track and monitor personal health information.  
+
+
+Back of Card:
+
+As an integrative part of overall wellness, massage has a great potential to encourage healthier living. Massage can increase blood circualation circulation,  boost the immusne system,  help to lower blood pressure, reduce headache frequency, and more. However, massage alone can not produce the benefits that come with good diet, exercise, and self care. We encourage and envision our users to be proactive and make informed decisions about their healthy futures.
+ 
+
+
+Front: 
+
+Title: Easy-Fill Intake Form 
+
+Abstract: All new clients can fill and update their intake forms here with one easy click.
+
+
+Back of Card:
+
+Description: As required by law, massage therapists must keep client records for up to 7 years. Our app allows therapists to access their clients records by using sort, filter and search options to find and update their clients information. 
+
+Clients have the right to their records and to have a copy of the records. Our massage therapist take the initiative to provide their clients with these records. Massage therapists must get client consent, or the consent of an authorized person, before releasing personal records.
+
+
+Front: 
+
+Title: Personalized plan suggested by your massage therapist
+
+Abstract: After your session your massage session, your therapist will send you a personalized plan for you to follow during time between visits. 
+
+
+Back of Card: 
+
+Description: We believe that the Plan is one of the key components that adds value and builds a stronger relationship between the client and therapist. 
+
+suggestions that the therapist has given for the client. Although client have rights to these SOAP notes, it is not not common for a therapist to send their client this information. StoreWell would like to change that and provide massage therapists an easy way to send their suggestions to their clients so that their clients can be motivated by their progress, and track the many benefits that massage has on their lives. 
+
+Massage therapists and clients can review records to acknowledge progress
+- teach self-care measures for clients to use at home between visits
+
+
+
+
+We believe 
+Front:
+
+Title: Subjective, Objective, Assessment, Plan
+
+Abstract:  
+Subjective - Current symtoms, how they feel, past history of illness or injury and any limitations, possibility of being pregnant, history of present illness, rate of pain level, etc
+Objective - Clinical observations derived from interview, palpation, visual exam, posture assessment, mobility, joint movement, skin color, muscle spasms, breathing patterns, active/passive range of motion.  
+Assessment - Treatment used and client response to treatment-immediate results. Therapist documents changes in clients posture and range of motion
+Plan - Treatment options, recommendations and self-care plan, exercises, reminders for next session. 
