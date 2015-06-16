@@ -9,7 +9,7 @@
 	<key>createOfflineApplicationCache</key>
 	<false/>
 	<key>currentSceneContainer</key>
-	<string>50</string>
+	<string>158</string>
 	<key>displayedAttributes</key>
 	<array>
 		<string>kPropertiesMenuItemIdentifierOpacity</string>
@@ -50,7 +50,7 @@
 	<key>guidesAreVisible</key>
 	<true/>
 	<key>lastCheckDate</key>
-	<date>2015-06-16T03:15:36Z</date>
+	<date>2015-06-16T03:45:13Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
