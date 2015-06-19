@@ -53,16 +53,16 @@
 			  <div class="collapsible-header"><i class="mdi-image-filter-drama"></i>Choose your massage</div>
 			  <div class="collapsible-body">
 			      <p>
-                        $('.dropdown-button').dropdown({
-      inDuration: 300,
-      outDuration: 225,
-      constrain_width: false, // Does not change width of dropdown to that of the activator
-      hover: true, // Activate on hover
-      gutter: 0, // Spacing from edge
-      belowOrigin: false // Displays dropdown below the button
-    }
-  );
-        
+                          <!-- Dropdown Trigger -->
+  <a class='dropdown-button btn' href='#' data-activates='dropdown1'>Drop Me!</a>
+
+  <!-- Dropdown Structure -->
+  <ul id='dropdown1' class='dropdown-content'>
+    <li><a href="#!">one</a></li>
+    <li><a href="#!">two</a></li>
+    <li class="divider"></li>
+    <li><a href="#!">three</a></li>
+  </ul>
 				   </p>
 			</div>
 			</li>
@@ -210,7 +210,7 @@ Earthlite
 <!--Team-->
 <div class="section scrollspy" id="therapists">
     <div class="container">
-        <h2 class="header text_b"> Our Therapists and Partners </h2>
+        <h2 class="header text_b"> Our Therapist </h2>
         <div class="row">
         
         
@@ -243,31 +243,6 @@ Earthlite
             </div>
            
             
-            <div class="col s16 m6	">
-                <div class="card card-avatar">
-                    <div class="waves-effect waves-block waves-light">
-                        <img class="activator" src="img/cotedemi.png">
-                    </div>
-                    <div class="card-content">
-                        <span class="card-title activator grey-text text-darken-4">COTEDEMI<br/>
-                            <small><em><a class="red-text text-darken-1" href="#">Women's Business Cooperative</a></em></small></span>
-                        <p>
-                            <a class="blue-text text-lighten-2" href="https://www.facebook.com/COTEDEMI">
-                                <i class="fa fa-facebook-square"></i>
-                            </a>
-                            <a class="blue-text text-lighten-2" href="https://twitter.com/cotedemicfa">
-                                <i class="fa fa-twitter-square"></i>
-                            </a>
-                            <a class="blue-text text-lighten-2" href="https://plus.google.com/112764940047621379183">
-                                <i class="fa fa-google-plus-square"></i>
-                            </a>
-                            <a class="blue-text text-lighten-2" href="https://www.linkedin.com/in/joashp">
-                                <i class="fa fa-linkedin-square"></i>
-                            </a>
-                        </p>
-                    </div>
-                </div>
-            </div>
         </div>
     </div>
 </div>
