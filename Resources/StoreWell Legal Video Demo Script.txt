@@ -1,0 +1,15 @@
+It is important that as a startup company, StoreWell understands the business relationship with and requirements by the law so that technologists have something  so that they can be built into a working code for an online business.  
+
+ will need to solve payment and liability issues for massage therapists practicing without a license or before being licensed, legal audits, and a set of recommendations for agreements for the sharing of data.
+
+Legal terms for PII, Potential Including Medical Records, sourcing from a clients Personal Data Store (eg MIT Media Lab OpenPDS Initiative). Legal aspects of integration with user-centered identity services such as OpenIdConnect.
+
+I am seeking teams that will be able to work from my GitHub Repository
+
+Develop a set of internationally applicable use cases and requirements that are specific enough to guide the specification and profiling design work, considering interrelations with risk mitigation and user experience efforts.
+Define a layered set of profiles for OAuth 2.0, OpenID Connect, and User-Managed Access (UMA), where each successively builds on and references the previous ones.
+Define additional profile specifications that define OAuth 2.0 scopes and UMA resource set types, scopes, and claims-gathering flows as required for interoperability.
+Develop and maintain liaison relationships as appropriate with external standards organizations and other bodies.
+Foster the creation of multiple interoperable reference implementations, particularly in open source.
+Promote progressive harmonization with existing specifications and protocols as appropriate.
+Develop educational materials in support of the overall Working Gro

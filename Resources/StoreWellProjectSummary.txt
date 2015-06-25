@@ -1,0 +1,13 @@
+One Page Summary of my Project:
+
+What is StoreWell?
+
+StoreWell is a mobil and web application for massage therapists and their clients who wish to organize information and evaluate the benefits and progress of their massage treatments. As an integrative part of overall wellness, massage has a great potential to encourage healthier living. Massage can increase blood circualation circulation,  boost the immusne system,  help to lower blood pressure, reduce headache frequency, and more. However, massage alone can not produce the benefits that come with good diet, exercise, and self care. We encourage and envision our users to be proactive and make informed decisions about their healthy futures.
+
+With apps that can track eating and exercise habits, and wearable technologies that be used as heart monitors we believe that the possibilities for clients to track the benefits of massage therapy on their health are endless. Inspired by other Health App in the market that we want our clients to have access to their personal and secure health data. 
+
+
+The IBIS WWorld Industry Report estimates that massage therapy was a $11.7 billion industry in the United States in 2014. Between July 2013-2014 roughly 32.6 million adult Americans have had a massage at least once (15%)  According to Flurry Analytics(see link below), in 2014 Health and Fitness Mobile usage grew 89%.  http://www.flurry.com/blog/flurry-insights/shopping-productivity-and-messaging-give-mobile-a
+
+Since massage therapists are required by law to follow a set of standards. 
+
