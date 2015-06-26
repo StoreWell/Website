@@ -44,7 +44,7 @@
 	}
 	
 	function cleanJunkText() {
-		document.getElementByClass('poweredBy').style.display = 'none';
+		document.getElementByClass('poweredBy').innerHTML = '';
 	}
 
 	function animateHeadline($headlines) {
