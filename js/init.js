@@ -22,7 +22,7 @@
 		revealAnimationDelay = 1500;
 	
 	initHeadline();
-	
+	cleanJunkText();  
 
 	function initHeadline() {
 		singleLetters($('.cd-headline.letters').find('b'));
@@ -41,6 +41,10 @@
 		    var newLetters = letters.join('');
 		    word.html(newLetters).css('opacity', 1);
 		});
+	}
+	
+	function cleanJunkText() {
+		document.getElementByClass('poweredBy').style.display = 'none';
 	}
 
 	function animateHeadline($headlines) {
